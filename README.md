@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @fadlimaghfirli
+- 👋 Hi, I’m FADLI MAGHFIRLI
 - 👀 I’m interested in web programming
 - 🌱 I'm studying in high school, majoring in RPL
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ Don't forget to star my repository
+- 📫 Follow my instagram @fadlimaghfirli
+
+Thanks for visiting my Github :)
 
 <!---
 fadlimaghfirli/fadlimaghfirli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
