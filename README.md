@@ -1,7 +1,7 @@
 - 👋 Hi, I’m FADLI MAGHFIRLI
-- 👀 I’m interested in web programming
+- 👀 I’m interested in Web Programming
 - 🌱 I'm studying in high school, majoring in RPL
-- 💞️ Don't forget to star my repository
+- 💞️ Don't forget to star my Repository
 - 📫 Follow my instagram @fadlimaghfirli
 
 Thanks for visiting my Github :)
